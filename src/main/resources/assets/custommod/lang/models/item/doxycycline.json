@@ -1,0 +1,7 @@
+JSON
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custommod:item/doxycycline"
+  }
+}

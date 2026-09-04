@@ -1,0 +1,19 @@
+JSON
+{
+  "itemGroup.custommod.carnival_tab": "Carnival & Fauna",
+  "effect.custommod.lyme_disease": "Lyme Disease",
+  "item.custommod.doxycycline": "Doxycycline Capsule",
+  "item.custommod.life_diaper": "Life Diaper",
+  "item.custommod.jetpack": "Steam-Powered Jetpack",
+  "item.custommod.rubber": "Vulcanized Rubber",
+  "item.custommod.rubber_nose": "Squeaky Rubber Nose",
+  "item.custommod.balloon": "Red Balloon",
+  "item.custommod.party_hat": "Party Hat",
+  "item.custommod.bugs": "Jar of Crawling Bugs",
+  "entity.custommod.deer_tick": "Deer Tick",
+  "entity.custommod.overworld_clown": "Overworld Clown",
+  "entity.custommod.ender_clown": "Ender Clown",
+  "item.custommod.deer_tick_spawn_egg": "Deer Tick Spawn Egg",
+  "item.custommod.clown_spawn_egg": "Clown Spawn Egg",
+  "item.custommod.ender_clown_spawn_egg": "Ender Clown Spawn Egg"
+}
